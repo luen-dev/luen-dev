@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Font</h1>
-<h3 align="center">An aspiring Data Analyst from Puerto Rico</h3>
+<h3 align="center">An aspiring Data Analyst!</h3>
 
 - 🌱 I’m currently learning **Programming - Intermediate Python / Visualization - Tableau**
 
